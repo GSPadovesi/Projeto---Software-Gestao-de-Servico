@@ -6,7 +6,7 @@ Desenvolvido um sistema do zero para gestão de serviço de uma personalização
 #Software do estudante Gabriel Santana Padovesi
 Mini projeto em JAVA E MySQL    - Com o tema sobre Gestão de Serviço - É um projeto ficticio - Gabriel Santana Padovesi 
 ## Autor 
-Gabriel Satana Padovesi
+Gabriel Santana Padovesi
 
 ## Construido com 
 * - JAVA
